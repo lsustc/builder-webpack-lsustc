@@ -23,5 +23,5 @@ notifications:
   email:
     recipients:
       - lsustc@mail.ustc.edu.cn
-    on_success: always # default: change
+    on_success: never # default: change
     on_failure: always # default: always
